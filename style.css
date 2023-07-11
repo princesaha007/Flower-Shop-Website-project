@@ -13,7 +13,7 @@
     justify-content: space-around;
     height: 80vh;
     align-items: center;
-    background-image: url("/background/background_pink.png");
+    background-image: url("../background/background_pink.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat; 
@@ -98,7 +98,7 @@
 
 }
 .bn-4{
-    background-image: url("/images/Rectangle\ 9.png");
+    background-image: url("../images/Rectangle\ 9.png");
     height: 500px;
     background-position: center;
     background-size: cover;
@@ -170,19 +170,19 @@ footer{
     margin-top: 100px;
 }
 .banner-img5{
-    background-image: url("/background/background_pink.png");
+    background-image: url("../background/background_pink.png");
     border-top-left-radius: 45%;
     border-top-right-radius: 45%;
     
 }
 .banner-img6{
-    background-image: url("/background/background_pink.png");
+    background-image: url("../background/background_pink.png");
     border-top-left-radius: 45%;
     border-top-right-radius: 45%;
 
 }
 .banner-img7{
-    background-image: url("/background/background_pink.png");
+    background-image: url("../background/background_pink.png");
     border-top-left-radius: 45%;
     border-top-right-radius: 45%;
     
