@@ -13,7 +13,7 @@
     justify-content: space-around;
     height: 80vh;
     align-items: center;
-    background-image: url("./background/background_pink.png");
+    background-image: url("/background/background_pink.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat; 
