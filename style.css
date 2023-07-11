@@ -103,12 +103,23 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat; 
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
     
 
 }
+
+.banner-4 input{
+    width: 80%;
+    height: 50px;
+    padding: 10px;
+}
 .h2-3{
     text-align: center;
-    padding: 20px;
+    padding-top: 75px;
     margin-left: 250px;
     margin-right: 250px;
     
@@ -133,21 +144,50 @@ footer{
     height: 50vh;
     color: antiquewhite;
     justify-content: space-around;
+
     
 }
-
+.footer {
+    padding-top: 120px;
+ }
 
 
 .banner-5{
     height: 80vh;
     text-align: center;
+    
+    color: rgb(21, 22, 23);
+    
 
 }
 .h2-4{
-    margin-top: 50px
+    padding-top: 65px;
+    font-size: 37px;
+
 }
+
 .h1_3{
     margin-top: 100px;
 }
+.banner-img5{
+    background-image: url("/background/background_pink.png");
+    border-top-left-radius: 45%;
+    border-top-right-radius: 45%;
+    
+}
+.banner-img6{
+    background-image: url("/background/background_pink.png");
+    border-top-left-radius: 45%;
+    border-top-right-radius: 45%;
 
-
+}
+.banner-img7{
+    background-image: url("/background/background_pink.png");
+    border-top-left-radius: 45%;
+    border-top-right-radius: 45%;
+    
+}
+.banner-img8{
+    align-items: center;
+    padding: 30px;
+}
