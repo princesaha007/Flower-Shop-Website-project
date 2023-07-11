@@ -1,0 +1,153 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.banner-img{
+    width: 420px;
+    height: 530px;
+    margin-top: 70px;
+    margin-right: 50px;
+}
+.banner-1{
+    display: flex;
+    justify-content: space-around;
+    height: 80vh;
+    align-items: center;
+    background-image: url("/background/background_pink.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+    
+}
+.btn-1{
+    padding: 10px 20px;
+    background-color: rgb(214, 86, 129);
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: large;
+}
+.h1-1{
+    font-size: 55px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.p1{
+    padding: 20px;
+    font-size: 17px; 
+    
+    
+}
+.banner-2{
+    display: flex;
+    justify-content: space-around;
+    height: 80vh;
+    align-items: center;
+    margin-left: 250px;
+    margin-right: 250px;
+
+}
+.btn-2{
+    padding: 10px 20px;
+    background-color: rgb(214, 86, 129);
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px;
+    margin-top: 20px;
+    margin-left: 310px;
+    /* margin-right: 250px; */
+    font-size: large;
+}
+.h1-2{
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 150px;
+
+}
+.p2{
+    padding: 20px;
+    font-size: 17px; 
+    margin-left: 90px;
+    text-align: center;
+}
+.span1{
+    color: palevioletred;
+}
+.banner-3{
+    text-align: center;
+    height: 80vh;
+    align-items: center;
+    padding: 20px;
+}
+.p3{
+    padding: 20px;
+    font-size: 15px; 
+}
+.banner-3-pic{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin: auto;
+    width: 60px;
+    height: auto;
+    gap: 25px;
+
+}
+.bn-4{
+    background-image: url("/images/Rectangle\ 9.png");
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+    
+
+}
+.h2-3{
+    text-align: center;
+    padding: 20px;
+    margin-left: 250px;
+    margin-right: 250px;
+    
+    
+    
+}
+
+
+
+.banner-4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 150px;
+    
+}
+footer{
+    background-color: black;
+    text-align: center;
+    height: 50vh;
+    color: antiquewhite;
+    justify-content: space-around;
+    
+}
+
+
+
+.banner-5{
+    height: 80vh;
+    text-align: center;
+
+}
+.h2-4{
+    margin-top: 50px
+}
+.h1_3{
+    margin-top: 100px;
+}
+
+
