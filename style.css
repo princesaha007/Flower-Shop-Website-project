@@ -203,3 +203,128 @@ footer{
     /* margin-right: 250px; */
     font-size: large;
 }
+.extra-container{
+    background-color: rgb(228, 234, 237);
+    padding-right: 50px;
+
+}
+.extra-title{
+    text-align: center;
+    padding-top: 70px;
+    font-size: 20px;
+    
+    padding-left: 75px;
+
+}
+.para-extra{
+    padding: 10px;
+}
+.extra{
+    background-color: rgb(228, 234, 237);
+    height: 55vh;
+    text-align: center;
+    padding-top: 30px;
+    display: flex;
+    padding-left: 350px;
+
+}
+.extra-img{
+    display: flex;
+    justify-content: space-around;
+    /* margin-right: 70px; */
+    padding-left: 10px;
+
+}
+.icon-extra1{
+    height: 300px;
+    width: 200px;
+    padding-left: 0px;
+    padding-top: 70px;
+    padding-right: 0px;
+    /* width: 250px; */
+
+}
+.icon-extra2{
+    height: 300px;
+    width: 200px;
+    padding-top: 70px;
+    padding-left: 90px;
+    /* width: 250px; */
+
+}
+.icon-extra3{
+    height: 300px;
+    width: 200px;
+    padding-top: 70px;
+    padding-left: 95px;
+    /* width: 250px; */
+    /* padding-right: 50px; */
+
+}
+.box-container{
+    padding-left: 100px;
+    padding-right: 140px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.box{
+    
+    height: 190px;
+    width: 230px;
+    /* box-shadow: 4px 4px 15px grey; */
+    background-color: #fffefe;
+    text-align: center;
+    /* padding: 50px; */
+    color: rgb(0, 0, 0);
+    margin-left: 50px;
+    margin-top: 80px;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+.box-description{
+    margin-top: 45px;
+}
+.box-para{
+    text-align: center;
+    padding-top: 90px;
+    font-size: 25px;
+}
+.para2{
+    padding-top: 20px;
+    font-size: 15px
+}
+.box-container2{
+
+    padding-left: 140px;
+    padding-right: 140px;
+    padding-top: 100px;
+    padding-bottom: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.icon1{
+    height: 300px;
+    width: 200px;
+    padding-left: 40px;
+    padding-top: 70px;
+}
+.icon2{
+    height: 300px;
+    width: 280px;
+    padding-top: 50px;
+    padding-left: 20px;
+    
+}
+.box2{
+    height: 370px;
+    width: 300px;
+    background-image: url("./background/background_pink.png");
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+
+    
+}
